@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Totalusragas\Totalusragas\bin\Debug\Totalusragas.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\Totalusragas\bin\Debug\Totalusragas.exe
+C:\Users\user\Desktop\C#\Totalusragas\Totalusragas\bin\Debug\Totalusragas.pdb
+C:\Users\user\Desktop\C#\Totalusragas\Totalusragas\obj\Debug\Totalusragas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Totalusragas\Totalusragas\obj\Debug\Totalusragas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\Totalusragas\obj\Debug\Totalusragas.exe
+C:\Users\user\Desktop\C#\Totalusragas\Totalusragas\obj\Debug\Totalusragas.pdb

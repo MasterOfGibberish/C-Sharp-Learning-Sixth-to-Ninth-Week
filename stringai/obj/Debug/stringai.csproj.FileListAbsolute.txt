@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#\Totalusragas\stringai\bin\Debug\stringai.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\stringai\bin\Debug\stringai.exe
+C:\Users\user\Desktop\C#\Totalusragas\stringai\bin\Debug\stringai.pdb
+C:\Users\user\Desktop\C#\Totalusragas\stringai\obj\Debug\stringai.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\stringai\obj\Debug\stringai.exe
+C:\Users\user\Desktop\C#\Totalusragas\stringai\obj\Debug\stringai.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Totalusragas\static_struct_enum\obj\Debug\static_struct_enum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Totalusragas\static_struct_enum\obj\Debug\static_struct_enum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\static_struct_enum\obj\Debug\static_struct_enum.exe
+C:\Users\user\Desktop\C#\Totalusragas\static_struct_enum\obj\Debug\static_struct_enum.pdb
+C:\Users\user\Desktop\C#\Totalusragas\static_struct_enum\bin\Debug\static_struct_enum.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\static_struct_enum\bin\Debug\static_struct_enum.exe
+C:\Users\user\Desktop\C#\Totalusragas\static_struct_enum\bin\Debug\static_struct_enum.pdb

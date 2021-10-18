@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\C#\Totalusragas\Organizmas\obj\Debug\Organizmas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Totalusragas\Organizmas\obj\Debug\Organizmas.csproj.CoreCompileInputs.cache

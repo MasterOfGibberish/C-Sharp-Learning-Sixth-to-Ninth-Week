@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Totalusragas\NamuDarbai\bin\Debug\NamuDarbai.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\NamuDarbai\bin\Debug\NamuDarbai.exe
+C:\Users\user\Desktop\C#\Totalusragas\NamuDarbai\bin\Debug\NamuDarbai.pdb
+C:\Users\user\Desktop\C#\Totalusragas\NamuDarbai\obj\Debug\NamuDarbai.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Totalusragas\NamuDarbai\obj\Debug\NamuDarbai.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\NamuDarbai\obj\Debug\NamuDarbai.exe
+C:\Users\user\Desktop\C#\Totalusragas\NamuDarbai\obj\Debug\NamuDarbai.pdb
